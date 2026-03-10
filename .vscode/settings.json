@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#03185E",
+        "titleBar.activeForeground": "#FFFFFF",
+        "titleBar.inactiveBackground": "#020C2F",
+        "titleBar.inactiveForeground": "#FFFFFF",
+        "statusBar.background": "#03185E",
+        "activityBar.background": "#03185E",
+        "activityBar.foreground": "#FFFFFF"
+    },
+    "cmake.sourceDirectory": "/Users/isra/Developer/Projects/Flutter/baseapp/linux"
+}

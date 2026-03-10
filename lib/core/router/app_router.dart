@@ -27,3 +27,6 @@ class AppRouter extends _$AppRouter {
     ),
   ];
 }
+
+// Comando para agregar nuevas rutas : 
+// dart run build_runner build --delete-conflicting-outputs

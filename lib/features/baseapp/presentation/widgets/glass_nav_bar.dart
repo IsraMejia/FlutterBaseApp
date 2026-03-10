@@ -27,7 +27,7 @@ class GlassNavBar extends StatelessWidget {
             height: 70,
             decoration: BoxDecoration(
               // Fondo semitransparente oscuro
-              color: AppColors.darkGreyBar.withOpacity(0.7),
+              color: const Color.fromARGB(255, 7, 40, 6).withOpacity(0.1),
               borderRadius: BorderRadius.circular(30),
               border: Border.all(
                 color: Colors.white.withOpacity(0.1), // Borde sutil brillante

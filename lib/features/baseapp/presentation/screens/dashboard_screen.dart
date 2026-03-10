@@ -21,9 +21,9 @@ class DashboardScreen extends StatelessWidget {
       
       // 2. Aquí usamos nuestro GlassNavBar
       bottomNavigationBuilder: (_, tabsRouter) {
-        return GlassNavBar(
-          currentIndex: tabsRouter.activeIndex,
-          onTap: tabsRouter.setActiveIndex,
+        return GlassNavBar( 
+          currentIndex: tabsRouter.activeIndex, // CurrentIndex es el índice actual del tab
+          onTap: tabsRouter.setActiveIndex,   // 
         );
       },
     );
